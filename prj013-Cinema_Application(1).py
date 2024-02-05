@@ -1,3 +1,8 @@
+"""The project is a simple movie management application with a graphical user interface (GUI) developed using PySide6. 
+It consists of a module that defines a Movie class for managing movie data, including adding and removing movies from a JSON file. 
+The GUI application (App class) allows users to interactively add and remove movies through a user-friendly interface. 
+The application reads and writes movie data from/to a JSON file, and it provides feedback to the user on successful operations."""
+
 import json
 import os
 
