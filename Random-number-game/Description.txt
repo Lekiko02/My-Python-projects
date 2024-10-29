@@ -1,0 +1,4 @@
+This program is a number guessing game. 
+The player first sets an upper limit by entering a number, and the game then randomly selects a number within the range from 0 to that limit. 
+The player's goal is to guess the correct number. After each guess, the game provides feedback on whether the guess is too high or too low. 
+The game continues until the player guesses the correct number, and it then displays the number of attempts made.

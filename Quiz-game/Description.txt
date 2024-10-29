@@ -1,0 +1,5 @@
+This code is a simple quiz question that asks the user to enter what "GPU" stands for. 
+If the user types "graphics processing unit," the program will print "Correct! ;)" 
+and increment the user's score by 1. 
+If the answer is incorrect, the program will print "Incorrect :(". At the end, it calculates and prints the user's score as 
+a percentage out of 4 questions.
